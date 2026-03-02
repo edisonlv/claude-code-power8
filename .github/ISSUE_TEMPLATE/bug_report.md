@@ -1,30 +1,32 @@
 ---
 name: Bug report
-about: Create a report to help us improve
-title: '[BUG] '
+about: Report a bug to help us improve
+title: '[Bug] '
 labels: bug
 assignees: ''
 ---
 
-**Describe the bug**
+## Description
 A clear and concise description of what the bug is.
 
-**To Reproduce**
-Steps to reproduce the behavior:
+## Steps to Reproduce
 1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+2. Run '...'
+3. See error
 
-**Expected behavior**
+## Expected Behavior
 A clear and concise description of what you expected to happen.
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+## Actual Behavior
+What actually happened.
 
-**Environment:**
- - OS: [e.g. macOS, Linux, Windows]
- - Version [e.g. 1.0.0]
+## Environment
+- OS: [e.g. Ubuntu 22.04]
+- Python version: [e.g. 3.11]
+- claude-code-power8 version: [e.g. 1.0.0]
 
-**Additional context**
+## Logs/Screenshots
+If applicable, add logs or screenshots to help explain your problem.
+
+## Additional Context
 Add any other context about the problem here.
